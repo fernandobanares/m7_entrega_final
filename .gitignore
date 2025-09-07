@@ -1,0 +1,35 @@
+# Resultados de pruebas
+results/*.json
+results/*.csv
+results/*.html
+results/*.xml
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Configuraciones locales
+config/local.json
+.env
+
+# Node modules (si se usan scripts auxiliares)
+node_modules/
+package-lock.json
+
+# VSCode
+.vscode/settings.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Reportes temporales
+reports/temp/
