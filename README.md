@@ -110,7 +110,7 @@ k6 run --out html=results/report.html scripts/load-test.js
 6. ⏳ Documentar conclusiones y recomendaciones
 
 ---
-**Autor**: [Tu nombre]  
+**Autor**: Fernando Bañares  
 **Fecha**: $(date)  
 **Herramienta**: k6 v0.x  
 **Proyecto**: Módulo 7 - Evaluación de Rendimiento y Escalabilidad
